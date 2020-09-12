@@ -68,6 +68,8 @@
   * [2、压缩](c1s1-11/c1s1-1.md)
 * [十五、tomcat监控](c1s1-12.md)
 * [十六、pip离线安装包](c1s1-13.md)
+* [十七、Node.js](shi-qi-node.js.md)
+* [十八、gitbook](shi-ba-gitbook.md)
 * [零零散散的](c1s1-14.md)
 * [使其centos7虚拟机静态ip](c1s1-15.md)
 * [添加用户/组](c1s1-16.md)
